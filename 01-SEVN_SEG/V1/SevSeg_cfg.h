@@ -1,0 +1,1 @@
+#define SEG_TYPE  COM_KA 
